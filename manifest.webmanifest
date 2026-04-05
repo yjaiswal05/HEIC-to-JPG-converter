@@ -1,0 +1,9 @@
+{
+  "name": "Offline HEIC to JPG Converter",
+  "short_name": "HEIC2JPG",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3efe6",
+  "theme_color": "#102a43",
+  "description": "Convert HEIC and HEIF images to JPG in your browser without uploading files."
+}
